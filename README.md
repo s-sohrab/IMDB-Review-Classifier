@@ -32,12 +32,18 @@ This repository contains a complete implementation of a neural network designed 
 
 ---
 
-🚀 Getting Started
-Prerequisites
+## 🚀 Getting Started
+
+### Prerequisites
+
 Ensure you have Python 3.8+ installed. Install the required dependencies using:
 
-bash
+```bash
 pip install -r requirements.txt
+
+```
+
+
 Running the Notebook
 Open notebook.ipynb in Jupyter Notebook or Google Colab to explore the full training pipeline and visualizations.
 
