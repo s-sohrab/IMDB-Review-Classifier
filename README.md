@@ -74,6 +74,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Samad Sohrab
 
 GitHub: @s-sohrab
+
 Field: Deep Learning & Neural Networks
 ```text
 
