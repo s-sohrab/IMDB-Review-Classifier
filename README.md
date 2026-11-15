@@ -29,6 +29,9 @@ This repository contains a complete implementation of a neural network designed 
 ├── notebook.ipynb        # Full training pipeline
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+
+---
+
 🚀 Getting Started
 Prerequisites
 Ensure you have Python 3.8+ installed. Install the required dependencies using:
@@ -38,8 +41,12 @@ pip install -r requirements.txt
 Running the Notebook
 Open notebook.ipynb in Jupyter Notebook or Google Colab to explore the full training pipeline and visualizations.
 
+---
+
 📊 Results
 The model achieves approximately 88% accuracy on the validation set, demonstrating the effectiveness of a simple feedforward neural network for sentiment analysis.
+
+---
 
 🧠 Key Learnings
 Data Preprocessing: Handling variable-length sequences via One-hot encoding.
@@ -50,14 +57,17 @@ Optimization: Comparing the convergence speed of SGD vs. Adam.
 
 Evaluation: Analyzing training and validation loss to detect overfitting.
 
+---
+
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
 
 👤 Author
 Samad Sohrab
 
 GitHub: @s-sohrab
-
 Field: Deep Learning & Neural Networks
 ```text
 
