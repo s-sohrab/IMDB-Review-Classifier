@@ -3,9 +3,13 @@ markdown
 
 A robust Deep Learning pipeline for **binary sentiment classification** of movie reviews using the IMDB dataset. This project demonstrates the end-to-end process of building, training, and evaluating a fully connected neural network for Natural Language Processing (NLP) tasks.
 
+---
+
 ## 📌 Overview
 
 This repository contains a complete implementation of a neural network designed to classify movie reviews as **Positive** or **Negative**. The model is trained on 25,000 highly polarized reviews and evaluated on a separate test set of 25,000 reviews. The project serves as a practical example of applying Deep Learning concepts such as One-hot encoding, ReLU activation, Sigmoid output, and Binary Cross-Entropy loss.
+
+---
 
 ## 🏗️ Model Architecture
 
@@ -16,19 +20,19 @@ This repository contains a complete implementation of a neural network designed 
 - **Loss Function:** Binary Cross-Entropy.
 - **Metrics:** Accuracy.
 
+---
+
 ## 📂 Project Structure
-├── notebook.ipynb # Full training pipeline (data loading, preprocessing, model building, evaluation)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
 
-text
-
-## 🚀 Getting Started
-
-### Prerequisites
+```text
+├── notebook.ipynb        # Full training pipeline (data loading, preprocessing, model building, evaluation)
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+🚀 Getting Started
+Prerequisites
 Ensure you have Python 3.8+ installed. Install the required dependencies using:
 
-```bash
+bash
 pip install -r requirements.txt
 Running the Notebook
 Open notebook.ipynb in Jupyter Notebook or Google Colab to explore the full training pipeline and visualizations.
@@ -54,3 +58,5 @@ Samad Sohrab
 GitHub: @s-sohrab
 
 Field: Deep Learning & Neural Networks
+
+This project was developed as part of a Deep Learning course presentation.
